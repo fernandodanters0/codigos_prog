@@ -26,7 +26,6 @@ public class Array_List1 {
         Numeros.add(num);
         }
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
         System.out.println();
         System.out.println("ArrayList de Numeros aleatorios: " + Numeros);
         System.out.println();
